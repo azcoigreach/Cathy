@@ -1,4 +1,7 @@
 .idea
+cathyenv
+.vscode
+*.sqlite3
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -102,4 +105,5 @@ ENV/
 # mypy
 .mypy_cache/
 *.db
-.vscode
+*.log
+.DS_Store
